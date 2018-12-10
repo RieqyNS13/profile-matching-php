@@ -1,0 +1,52 @@
+[
+	{
+	Aspek:{key:1,value:'Aspek 1', persen:50},
+	Data:[
+		{
+		
+		Alternatif:{key:1,value:'Rieqy'},
+		Profile:[
+			{key:1, value:'Kriteria 1-1', nilai_kriteria:3},
+			{key:2, value:'Kriteria 1-2', nilai_kriteria:4}
+			],
+		NCF:-,
+		NSF:-,
+		Total:
+		},
+		
+		{Alternatif:{key:2,value:'Rieqy Jancok'},
+		Profile:[
+			{key:1,value:'Kriteria 1-1',nilai:4},
+			{key:2,value:'Kriteria 1-2',nilai:5}
+			],
+		NCF:-,
+		NSF:-,
+		Total,
+		},
+		]
+	
+	}	
+	
+	{
+	Aspek:{key:2,value:'Aspek 2', persen:70},
+	Data:[
+		{Alternatif:{key:1,value:'Rieqy'},
+		Profile:[
+			{key:1,value:'Kriteria 2-1',nilai:3},
+			{key:2,value:'Kriteria 2-2',nilai:4}
+			],
+		NCF:-,
+		NSF:-
+		}
+		
+		{Alternatif:{key:2,value:'Rieqy Jancok'},
+		Profile:[
+			{key:1,value:'Kriteria 2-1',nilai:4},
+			{key:2,value:'Kriteria 2-2',nilai:6}
+			],
+		NCF:-,
+		NSF:-
+		}
+		]
+	}	
+]

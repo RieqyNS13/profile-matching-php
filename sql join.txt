@@ -1,0 +1,1 @@
+SELECT a.id_alternatif,c.nama_alternatif,a.id_kriteria,b.nama_kriteria,b.id_aspek,d.nama_aspek,a.nilai_profile FROM tbl_profile a inner join tbl_kriteria b on a.id_kriteria=b.id inner join tbl_alternatif c on a.id_alternatif=c.id inner join tbl_aspek d on d.id=b.id_aspek where b.id_aspek=3 order by id_alternatif,a.id_kriteria

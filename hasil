@@ -1,0 +1,1408 @@
+Array
+(
+    [0] => Hitung Object
+        (
+            [Aspek] => Aspek Object
+                (
+                    [key] => A1
+                    [value] => Aspek Survival
+                    [nilai_persen] => 20
+                )
+
+            [Data] => Array
+                (
+                    [0] => Data Object
+                        (
+                            [Alternatif] => Alternatif Object
+                                (
+                                    [id] => 2
+                                    [key] => 4611416002
+                                    [value] => 乱藤四郎
+                                )
+
+                            [Profile] => Array
+                                (
+                                    [0] => Profile Object
+                                        (
+                                            [key] => A1a
+                                            [value] => Kriteria Survival 3
+                                            [nilai_kriteria] => 6
+                                            [nilai_profile] => 1
+                                            [factor] => 1
+                                            [gap] => -5
+                                            [bobot] => 1
+                                        )
+
+                                    [1] => Profile Object
+                                        (
+                                            [key] => A12
+                                            [value] => Kriteria Survival 1
+                                            [nilai_kriteria] => 7
+                                            [nilai_profile] => 4
+                                            [factor] => 2
+                                            [gap] => -3
+                                            [bobot] => 1.5
+                                        )
+
+                                    [2] => Profile Object
+                                        (
+                                            [key] => A15
+                                            [value] => Kriteria Survival 2
+                                            [nilai_kriteria] => 6
+                                            [nilai_profile] => 3
+                                            [factor] => 1
+                                            [gap] => -3
+                                            [bobot] => 1.5
+                                        )
+
+                                )
+
+                            [NCF] => 2
+                            [NSF] => 4
+                            [Total] => 2.8
+                        )
+
+                    [1] => Data Object
+                        (
+                            [Alternatif] => Alternatif Object
+                                (
+                                    [id] => 3
+                                    [key] => 4611416026
+                                    [value] => Ryuunosuke Akasaka
+
+                                )
+
+                            [Profile] => Array
+                                (
+                                    [0] => Profile Object
+                                        (
+                                            [key] => A1a
+                                            [value] => Kriteria Survival 3
+                                            [nilai_kriteria] => 6
+                                            [nilai_profile] => 1
+                                            [factor] => 1
+                                            [gap] => -5
+                                            [bobot] => 1
+                                        )
+
+                                    [1] => Profile Object
+                                        (
+                                            [key] => A12
+                                            [value] => Kriteria Survival 1
+                                            [nilai_kriteria] => 7
+                                            [nilai_profile] => 1
+                                            [factor] => 2
+                                            [gap] => -6
+                                            [bobot] => 1
+                                        )
+
+                                    [2] => Profile Object
+                                        (
+                                            [key] => A15
+                                            [value] => Kriteria Survival 2
+                                            [nilai_kriteria] => 6
+                                            [nilai_profile] => 0
+                                            [factor] => 1
+                                            [gap] => -6
+                                            [bobot] => 1
+                                        )
+
+                                )
+
+                            [NCF] => 0.5
+                            [NSF] => 1
+                            [Total] => 0.7
+                        )
+
+                    [2] => Data Object
+                        (
+                            [Alternatif] => Alternatif Object
+                                (
+                                    [id] => 4
+                                    [key] => 4611416028
+                                    [value] => Kashuu Kiyomitsu
+                                )
+
+                            [Profile] => Array
+                                (
+                                    [0] => Profile Object
+                                        (
+                                            [key] => A1a
+                                            [value] => Kriteria Survival 3
+                                            [nilai_kriteria] => 6
+                                            [nilai_profile] => 4
+                                            [factor] => 1
+                                            [gap] => -2
+                                            [bobot] => 2
+                                        )
+
+                                    [1] => Profile Object
+                                        (
+                                            [key] => A12
+                                            [value] => Kriteria Survival 1
+                                            [nilai_kriteria] => 7
+                                            [nilai_profile] => 3
+                                            [factor] => 2
+                                            [gap] => -4
+                                            [bobot] => 1
+                                        )
+
+                                    [2] => Profile Object
+                                        (
+                                            [key] => A15
+                                            [value] => Kriteria Survival 2
+                                            [nilai_kriteria] => 6
+                                            [nilai_profile] => 4
+                                            [factor] => 1
+                                            [gap] => -2
+                                            [bobot] => 2
+                                        )
+
+                                )
+
+                            [NCF] => 4
+                            [NSF] => 3
+                            [Total] => 3.6
+                        )
+
+                    [3] => Data Object
+                        (
+                            [Alternatif] => Alternatif Object
+                                (
+                                    [id] => 5
+                                    [key] => 4611416012
+                                    [value] => Yamatonokami Yasusada
+                                )
+
+                            [Profile] => Array
+                                (
+                                    [0] => Profile Object
+                                        (
+                                            [key] => A1a
+                                            [value] => Kriteria Survival 3
+                                            [nilai_kriteria] => 6
+                                            [nilai_profile] => 4
+                                            [factor] => 1
+                                            [gap] => -2
+                                            [bobot] => 2
+                                        )
+
+                                    [1] => Profile Object
+                                        (
+                                            [key] => A12
+                                            [value] => Kriteria Survival 1
+                                            [nilai_kriteria] => 7
+                                            [nilai_profile] => 6
+                                            [factor] => 2
+                                            [gap] => -1
+                                            [bobot] => 2.5
+                                        )
+
+                                    [2] => Profile Object
+                                        (
+                                            [key] => A15
+                                            [value] => Kriteria Survival 2
+                                            [nilai_kriteria] => 6
+                                            [nilai_profile] => 6
+                                            [factor] => 1
+                                            [gap] => 0
+                                            [bobot] => 3
+                                        )
+
+                                )
+
+                            [NCF] => 5
+                            [NSF] => 6
+                            [Total] => 5.4
+                        )
+
+                    [4] => Data Object
+                        (
+                            [Alternatif] => Alternatif Object
+                                (
+                                    [id] => 6
+                                    [key] => 4611416011
+                                    [value] => Mikazuki Munechika
+                                )
+
+                            [Profile] => Array
+                                (
+                                    [0] => Profile Object
+                                        (
+                                            [key] => A1a
+                                            [value] => Kriteria Survival 3
+                                            [nilai_kriteria] => 6
+                                            [nilai_profile] => 7
+                                            [factor] => 1
+                                            [gap] => 1
+                                            [bobot] => 3.5
+                                        )
+
+                                    [1] => Profile Object
+                                        (
+                                            [key] => A12
+                                            [value] => Kriteria Survival 1
+                                            [nilai_kriteria] => 7
+                                            [nilai_profile] => 6
+                                            [factor] => 2
+                                            [gap] => -1
+                                            [bobot] => 2.5
+                                        )
+
+                                    [2] => Profile Object
+                                        (
+                                            [key] => A15
+                                            [value] => Kriteria Survival 2
+                                            [nilai_kriteria] => 6
+                                            [nilai_profile] => 6
+                                            [factor] => 1
+                                            [gap] => 0
+                                            [bobot] => 3
+                                        )
+
+                                )
+
+                            [NCF] => 6.5
+                            [NSF] => 6
+                            [Total] => 6.3
+                        )
+
+                    [5] => Data Object
+                        (
+                            [Alternatif] => Alternatif Object
+                                (
+                                    [id] => 7
+                                    [key] => 4611416009
+                                    [value] => Tsurumaru Kuninaga
+                                )
+
+                            [Profile] => Array
+                                (
+                                    [0] => Profile Object
+                                        (
+                                            [key] => A1a
+                                            [value] => Kriteria Survival 3
+                                            [nilai_kriteria] => 6
+                                            [nilai_profile] => 6
+                                            [factor] => 1
+                                            [gap] => 0
+                                            [bobot] => 3
+                                        )
+
+                                    [1] => Profile Object
+                                        (
+                                            [key] => A12
+                                            [value] => Kriteria Survival 1
+                                            [nilai_kriteria] => 7
+                                            [nilai_profile] => 7
+                                            [factor] => 2
+                                            [gap] => 0
+                                            [bobot] => 3
+                                        )
+
+                                    [2] => Profile Object
+                                        (
+                                            [key] => A15
+                                            [value] => Kriteria Survival 2
+                                            [nilai_kriteria] => 6
+                                            [nilai_profile] => 5
+                                            [factor] => 1
+                                            [gap] => -1
+                                            [bobot] => 2.5
+                                        )
+
+                                )
+
+                            [NCF] => 5.5
+                            [NSF] => 7
+                            [Total] => 6.1
+                        )
+
+                    [6] => Data Object
+                        (
+                            [Alternatif] => Alternatif Object
+                                (
+                                    [id] => 8
+                                    [key] => 4611416014
+                                    [value] => Izuminokami Kanesada
+                                )
+
+                            [Profile] => Array
+                                (
+                                    [0] => Profile Object
+                                        (
+                                            [key] => A1a
+                                            [value] => Kriteria Survival 3
+                                            [nilai_kriteria] => 6
+                                            [nilai_profile] => 3
+                                            [factor] => 1
+                                            [gap] => -3
+                                            [bobot] => 1.5
+                                        )
+
+                                    [1] => Profile Object
+                                        (
+                                            [key] => A12
+                                            [value] => Kriteria Survival 1
+                                            [nilai_kriteria] => 7
+                                            [nilai_profile] => 3
+                                            [factor] => 2
+                                            [gap] => -4
+                                            [bobot] => 1
+                                        )
+
+                                    [2] => Profile Object
+                                        (
+                                            [key] => A15
+                                            [value] => Kriteria Survival 2
+                                            [nilai_kriteria] => 6
+                                            [nilai_profile] => 5
+                                            [factor] => 1
+                                            [gap] => -1
+                                            [bobot] => 2.5
+                                        )
+
+                                )
+
+                            [NCF] => 4
+                            [NSF] => 3
+                            [Total] => 3.6
+                        )
+
+                    [7] => Data Object
+                        (
+                            [Alternatif] => Alternatif Object
+                                (
+                                    [id] => 9
+                                    [key] => 4611416001
+                                    [value] => Yamanbagiri Kunihiro 
+                                )
+
+                            [Profile] => Array
+                                (
+                                    [0] => Profile Object
+                                        (
+                                            [key] => A1a
+                                            [value] => Kriteria Survival 3
+                                            [nilai_kriteria] => 6
+                                            [nilai_profile] => 5
+                                            [factor] => 1
+                                            [gap] => -1
+                                            [bobot] => 2.5
+                                        )
+
+                                    [1] => Profile Object
+                                        (
+                                            [key] => A12
+                                            [value] => Kriteria Survival 1
+                                            [nilai_kriteria] => 7
+                                            [nilai_profile] => 3
+                                            [factor] => 2
+                                            [gap] => -4
+                                            [bobot] => 1
+                                        )
+
+                                    [2] => Profile Object
+                                        (
+                                            [key] => A15
+                                            [value] => Kriteria Survival 2
+                                            [nilai_kriteria] => 6
+                                            [nilai_profile] => 3
+                                            [factor] => 1
+                                            [gap] => -3
+                                            [bobot] => 1.5
+                                        )
+
+                                )
+
+                            [NCF] => 4
+                            [NSF] => 3
+                            [Total] => 3.6
+                        )
+
+                    [8] => Data Object
+                        (
+                            [Alternatif] => Alternatif Object
+                                (
+                                    [id] => 15
+                                    [key] => 4611416027
+                                    [value] => Boorhaann S.Si., M.Kom.,
+                                )
+
+                            [Profile] => Array
+                                (
+                                    [0] => Profile Object
+                                        (
+                                            [key] => A1a
+                                            [value] => Kriteria Survival 3
+                                            [nilai_kriteria] => 6
+                                            [nilai_profile] => 6
+                                            [factor] => 1
+                                            [gap] => 0
+                                            [bobot] => 3
+                                        )
+
+                                    [1] => Profile Object
+                                        (
+                                            [key] => A12
+                                            [value] => Kriteria Survival 1
+                                            [nilai_kriteria] => 7
+                                            [nilai_profile] => 5
+                                            [factor] => 2
+                                            [gap] => -2
+                                            [bobot] => 2
+                                        )
+
+                                    [2] => Profile Object
+                                        (
+                                            [key] => A15
+                                            [value] => Kriteria Survival 2
+                                            [nilai_kriteria] => 6
+                                            [nilai_profile] => 3
+                                            [factor] => 1
+                                            [gap] => -3
+                                            [bobot] => 1.5
+                                        )
+
+                                )
+
+                            [NCF] => 4.5
+                            [NSF] => 5
+                            [Total] => 4.7
+                        )
+
+                    [9] => Data Object
+                        (
+                            [Alternatif] => Alternatif Object
+                                (
+                                    [id] => 19
+                                    [key] => 4611416013
+                                    [value] => Kogitsunemaru
+                                )
+
+                            [Profile] => Array
+                                (
+                                    [0] => Profile Object
+                                        (
+                                            [key] => A1a
+                                            [value] => Kriteria Survival 3
+                                            [nilai_kriteria] => 6
+                                            [nilai_profile] => 5
+                                            [factor] => 1
+                                            [gap] => -1
+                                            [bobot] => 2.5
+                                        )
+
+                                    [1] => Profile Object
+                                        (
+                                            [key] => A12
+                                            [value] => Kriteria Survival 1
+                                            [nilai_kriteria] => 7
+                                            [nilai_profile] => 3
+                                            [factor] => 2
+                                            [gap] => -4
+                                            [bobot] => 1
+                                        )
+
+                                    [2] => Profile Object
+                                        (
+                                            [key] => A15
+                                            [value] => Kriteria Survival 2
+                                            [nilai_kriteria] => 6
+                                            [nilai_profile] => 4
+                                            [factor] => 1
+                                            [gap] => -2
+                                            [bobot] => 2
+                                        )
+
+                                )
+
+                            [NCF] => 4.5
+                            [NSF] => 3
+                            [Total] => 3.9
+                        )
+
+                )
+
+        )
+
+    [1] => Hitung Object
+        (
+            [Aspek] => Aspek Object
+                (
+                    [key] => A2
+                    [value] => Aspek Killing Blow
+                    [nilai_persen] => 30
+                )
+
+            [Data] => Array
+                (
+                    [0] => Data Object
+                        (
+                            [Alternatif] => Alternatif Object
+                                (
+                                    [id] => 2
+                                    [key] => 4611416002
+                                    [value] => 乱藤四郎
+                                )
+
+                            [Profile] => Array
+                                (
+                                    [0] => Profile Object
+                                        (
+                                            [key] => A21
+                                            [value] => Kriteria Killing Blow 1
+                                            [nilai_kriteria] => 8
+                                            [nilai_profile] => 5
+                                            [factor] => 2
+                                            [gap] => -3
+                                            [bobot] => 1.5
+                                        )
+
+                                    [1] => Profile Object
+                                        (
+                                            [key] => A22
+                                            [value] => Kriteria Killing Blow 2
+                                            [nilai_kriteria] => 7
+                                            [nilai_profile] => 6
+                                            [factor] => 1
+                                            [gap] => -1
+                                            [bobot] => 2.5
+                                        )
+
+                                )
+
+                            [NCF] => 6
+                            [NSF] => 5
+                            [Total] => 5.6
+                        )
+
+                    [1] => Data Object
+                        (
+                            [Alternatif] => Alternatif Object
+                                (
+                                    [id] => 3
+                                    [key] => 4611416026
+                                    [value] => Ryuunosuke Akasaka
+
+                                )
+
+                            [Profile] => Array
+                                (
+                                )
+
+                            [NCF] => 0
+                            [NSF] => 0
+                            [Total] => 0
+                        )
+
+                    [2] => Data Object
+                        (
+                            [Alternatif] => Alternatif Object
+                                (
+                                    [id] => 4
+                                    [key] => 4611416028
+                                    [value] => Kashuu Kiyomitsu
+                                )
+
+                            [Profile] => Array
+                                (
+                                    [0] => Profile Object
+                                        (
+                                            [key] => A21
+                                            [value] => Kriteria Killing Blow 1
+                                            [nilai_kriteria] => 8
+                                            [nilai_profile] => 7
+                                            [factor] => 2
+                                            [gap] => -1
+                                            [bobot] => 2.5
+                                        )
+
+                                    [1] => Profile Object
+                                        (
+                                            [key] => A22
+                                            [value] => Kriteria Killing Blow 2
+                                            [nilai_kriteria] => 7
+                                            [nilai_profile] => 5
+                                            [factor] => 1
+                                            [gap] => -2
+                                            [bobot] => 2
+                                        )
+
+                                )
+
+                            [NCF] => 5
+                            [NSF] => 7
+                            [Total] => 5.8
+                        )
+
+                    [3] => Data Object
+                        (
+                            [Alternatif] => Alternatif Object
+                                (
+                                    [id] => 5
+                                    [key] => 4611416012
+                                    [value] => Yamatonokami Yasusada
+                                )
+
+                            [Profile] => Array
+                                (
+                                    [0] => Profile Object
+                                        (
+                                            [key] => A21
+                                            [value] => Kriteria Killing Blow 1
+                                            [nilai_kriteria] => 8
+                                            [nilai_profile] => 5
+                                            [factor] => 2
+                                            [gap] => -3
+                                            [bobot] => 1.5
+                                        )
+
+                                    [1] => Profile Object
+                                        (
+                                            [key] => A22
+                                            [value] => Kriteria Killing Blow 2
+                                            [nilai_kriteria] => 7
+                                            [nilai_profile] => 7
+                                            [factor] => 1
+                                            [gap] => 0
+                                            [bobot] => 3
+                                        )
+
+                                )
+
+                            [NCF] => 7
+                            [NSF] => 5
+                            [Total] => 6.2
+                        )
+
+                    [4] => Data Object
+                        (
+                            [Alternatif] => Alternatif Object
+                                (
+                                    [id] => 6
+                                    [key] => 4611416011
+                                    [value] => Mikazuki Munechika
+                                )
+
+                            [Profile] => Array
+                                (
+                                )
+
+                            [NCF] => 0
+                            [NSF] => 0
+                            [Total] => 0
+                        )
+
+                    [5] => Data Object
+                        (
+                            [Alternatif] => Alternatif Object
+                                (
+                                    [id] => 7
+                                    [key] => 4611416009
+                                    [value] => Tsurumaru Kuninaga
+                                )
+
+                            [Profile] => Array
+                                (
+                                )
+
+                            [NCF] => 0
+                            [NSF] => 0
+                            [Total] => 0
+                        )
+
+                    [6] => Data Object
+                        (
+                            [Alternatif] => Alternatif Object
+                                (
+                                    [id] => 8
+                                    [key] => 4611416014
+                                    [value] => Izuminokami Kanesada
+                                )
+
+                            [Profile] => Array
+                                (
+                                    [0] => Profile Object
+                                        (
+                                            [key] => A21
+                                            [value] => Kriteria Killing Blow 1
+                                            [nilai_kriteria] => 8
+                                            [nilai_profile] => 6
+                                            [factor] => 2
+                                            [gap] => -2
+                                            [bobot] => 2
+                                        )
+
+                                    [1] => Profile Object
+                                        (
+                                            [key] => A22
+                                            [value] => Kriteria Killing Blow 2
+                                            [nilai_kriteria] => 7
+                                            [nilai_profile] => 3
+                                            [factor] => 1
+                                            [gap] => -4
+                                            [bobot] => 1
+                                        )
+
+                                )
+
+                            [NCF] => 3
+                            [NSF] => 6
+                            [Total] => 4.2
+                        )
+
+                    [7] => Data Object
+                        (
+                            [Alternatif] => Alternatif Object
+                                (
+                                    [id] => 9
+                                    [key] => 4611416001
+                                    [value] => Yamanbagiri Kunihiro 
+                                )
+
+                            [Profile] => Array
+                                (
+                                    [0] => Profile Object
+                                        (
+                                            [key] => A21
+                                            [value] => Kriteria Killing Blow 1
+                                            [nilai_kriteria] => 8
+                                            [nilai_profile] => 7
+                                            [factor] => 2
+                                            [gap] => -1
+                                            [bobot] => 2.5
+                                        )
+
+                                    [1] => Profile Object
+                                        (
+                                            [key] => A22
+                                            [value] => Kriteria Killing Blow 2
+                                            [nilai_kriteria] => 7
+                                            [nilai_profile] => 4
+                                            [factor] => 1
+                                            [gap] => -3
+                                            [bobot] => 1.5
+                                        )
+
+                                )
+
+                            [NCF] => 4
+                            [NSF] => 7
+                            [Total] => 5.2
+                        )
+
+                    [8] => Data Object
+                        (
+                            [Alternatif] => Alternatif Object
+                                (
+                                    [id] => 15
+                                    [key] => 4611416027
+                                    [value] => Boorhaann S.Si., M.Kom.,
+                                )
+
+                            [Profile] => Array
+                                (
+                                    [0] => Profile Object
+                                        (
+                                            [key] => A21
+                                            [value] => Kriteria Killing Blow 1
+                                            [nilai_kriteria] => 8
+                                            [nilai_profile] => 5
+                                            [factor] => 2
+                                            [gap] => -3
+                                            [bobot] => 1.5
+                                        )
+
+                                    [1] => Profile Object
+                                        (
+                                            [key] => A22
+                                            [value] => Kriteria Killing Blow 2
+                                            [nilai_kriteria] => 7
+                                            [nilai_profile] => 4
+                                            [factor] => 1
+                                            [gap] => -3
+                                            [bobot] => 1.5
+                                        )
+
+                                )
+
+                            [NCF] => 4
+                            [NSF] => 5
+                            [Total] => 4.4
+                        )
+
+                    [9] => Data Object
+                        (
+                            [Alternatif] => Alternatif Object
+                                (
+                                    [id] => 19
+                                    [key] => 4611416013
+                                    [value] => Kogitsunemaru
+                                )
+
+                            [Profile] => Array
+                                (
+                                    [0] => Profile Object
+                                        (
+                                            [key] => A21
+                                            [value] => Kriteria Killing Blow 1
+                                            [nilai_kriteria] => 8
+                                            [nilai_profile] => 3
+                                            [factor] => 2
+                                            [gap] => -5
+                                            [bobot] => 1
+                                        )
+
+                                    [1] => Profile Object
+                                        (
+                                            [key] => A22
+                                            [value] => Kriteria Killing Blow 2
+                                            [nilai_kriteria] => 7
+                                            [nilai_profile] => 4
+                                            [factor] => 1
+                                            [gap] => -3
+                                            [bobot] => 1.5
+                                        )
+
+                                )
+
+                            [NCF] => 4
+                            [NSF] => 3
+                            [Total] => 3.6
+                        )
+
+                )
+
+        )
+
+    [2] => Hitung Object
+        (
+            [Aspek] => Aspek Object
+                (
+                    [key] => A3
+                    [value] => Aspek Range
+                    [nilai_persen] => 50
+                )
+
+            [Data] => Array
+                (
+                    [0] => Data Object
+                        (
+                            [Alternatif] => Alternatif Object
+                                (
+                                    [id] => 2
+                                    [key] => 4611416002
+                                    [value] => 乱藤四郎
+                                )
+
+                            [Profile] => Array
+                                (
+                                    [0] => Profile Object
+                                        (
+                                            [key] => A31
+                                            [value] => Kriteria Range 1
+                                            [nilai_kriteria] => 6
+                                            [nilai_profile] => 6
+                                            [factor] => 1
+                                            [gap] => 0
+                                            [bobot] => 3
+                                        )
+
+                                    [1] => Profile Object
+                                        (
+                                            [key] => A32
+                                            [value] => Kriteria Range 2
+                                            [nilai_kriteria] => 4
+                                            [nilai_profile] => 5
+                                            [factor] => 1
+                                            [gap] => 1
+                                            [bobot] => 3.5
+                                        )
+
+                                    [2] => Profile Object
+                                        (
+                                            [key] => A33
+                                            [value] => Kriteria Range 3
+                                            [nilai_kriteria] => 5
+                                            [nilai_profile] => 4
+                                            [factor] => 2
+                                            [gap] => -1
+                                            [bobot] => 2.5
+                                        )
+
+                                )
+
+                            [NCF] => 5.5
+                            [NSF] => 4
+                            [Total] => 4.9
+                        )
+
+                    [1] => Data Object
+                        (
+                            [Alternatif] => Alternatif Object
+                                (
+                                    [id] => 3
+                                    [key] => 4611416026
+                                    [value] => Ryuunosuke Akasaka
+
+                                )
+
+                            [Profile] => Array
+                                (
+                                    [0] => Profile Object
+                                        (
+                                            [key] => A31
+                                            [value] => Kriteria Range 1
+                                            [nilai_kriteria] => 6
+                                            [nilai_profile] => 1
+                                            [factor] => 1
+                                            [gap] => -5
+                                            [bobot] => 1
+                                        )
+
+                                    [1] => Profile Object
+                                        (
+                                            [key] => A32
+                                            [value] => Kriteria Range 2
+                                            [nilai_kriteria] => 4
+                                            [nilai_profile] => 4
+                                            [factor] => 1
+                                            [gap] => 0
+                                            [bobot] => 3
+                                        )
+
+                                    [2] => Profile Object
+                                        (
+                                            [key] => A33
+                                            [value] => Kriteria Range 3
+                                            [nilai_kriteria] => 5
+                                            [nilai_profile] => 3
+                                            [factor] => 2
+                                            [gap] => -2
+                                            [bobot] => 2
+                                        )
+
+                                )
+
+                            [NCF] => 2.5
+                            [NSF] => 3
+                            [Total] => 2.7
+                        )
+
+                    [2] => Data Object
+                        (
+                            [Alternatif] => Alternatif Object
+                                (
+                                    [id] => 4
+                                    [key] => 4611416028
+                                    [value] => Kashuu Kiyomitsu
+                                )
+
+                            [Profile] => Array
+                                (
+                                    [0] => Profile Object
+                                        (
+                                            [key] => A31
+                                            [value] => Kriteria Range 1
+                                            [nilai_kriteria] => 6
+                                            [nilai_profile] => 6
+                                            [factor] => 1
+                                            [gap] => 0
+                                            [bobot] => 3
+                                        )
+
+                                    [1] => Profile Object
+                                        (
+                                            [key] => A32
+                                            [value] => Kriteria Range 2
+                                            [nilai_kriteria] => 4
+                                            [nilai_profile] => 6
+                                            [factor] => 1
+                                            [gap] => 2
+                                            [bobot] => 4
+                                        )
+
+                                    [2] => Profile Object
+                                        (
+                                            [key] => A33
+                                            [value] => Kriteria Range 3
+                                            [nilai_kriteria] => 5
+                                            [nilai_profile] => 6
+                                            [factor] => 2
+                                            [gap] => 1
+                                            [bobot] => 3.5
+                                        )
+
+                                )
+
+                            [NCF] => 6
+                            [NSF] => 6
+                            [Total] => 6
+                        )
+
+                    [3] => Data Object
+                        (
+                            [Alternatif] => Alternatif Object
+                                (
+                                    [id] => 5
+                                    [key] => 4611416012
+                                    [value] => Yamatonokami Yasusada
+                                )
+
+                            [Profile] => Array
+                                (
+                                    [0] => Profile Object
+                                        (
+                                            [key] => A31
+                                            [value] => Kriteria Range 1
+                                            [nilai_kriteria] => 6
+                                            [nilai_profile] => 6
+                                            [factor] => 1
+                                            [gap] => 0
+                                            [bobot] => 3
+                                        )
+
+                                    [1] => Profile Object
+                                        (
+                                            [key] => A32
+                                            [value] => Kriteria Range 2
+                                            [nilai_kriteria] => 4
+                                            [nilai_profile] => 6
+                                            [factor] => 1
+                                            [gap] => 2
+                                            [bobot] => 4
+                                        )
+
+                                    [2] => Profile Object
+                                        (
+                                            [key] => A33
+                                            [value] => Kriteria Range 3
+                                            [nilai_kriteria] => 5
+                                            [nilai_profile] => 6
+                                            [factor] => 2
+                                            [gap] => 1
+                                            [bobot] => 3.5
+                                        )
+
+                                )
+
+                            [NCF] => 6
+                            [NSF] => 6
+                            [Total] => 6
+                        )
+
+                    [4] => Data Object
+                        (
+                            [Alternatif] => Alternatif Object
+                                (
+                                    [id] => 6
+                                    [key] => 4611416011
+                                    [value] => Mikazuki Munechika
+                                )
+
+                            [Profile] => Array
+                                (
+                                    [0] => Profile Object
+                                        (
+                                            [key] => A31
+                                            [value] => Kriteria Range 1
+                                            [nilai_kriteria] => 6
+                                            [nilai_profile] => 3
+                                            [factor] => 1
+                                            [gap] => -3
+                                            [bobot] => 1.5
+                                        )
+
+                                    [1] => Profile Object
+                                        (
+                                            [key] => A32
+                                            [value] => Kriteria Range 2
+                                            [nilai_kriteria] => 4
+                                            [nilai_profile] => 3
+                                            [factor] => 1
+                                            [gap] => -1
+                                            [bobot] => 2.5
+                                        )
+
+                                    [2] => Profile Object
+                                        (
+                                            [key] => A33
+                                            [value] => Kriteria Range 3
+                                            [nilai_kriteria] => 5
+                                            [nilai_profile] => 4
+                                            [factor] => 2
+                                            [gap] => -1
+                                            [bobot] => 2.5
+                                        )
+
+                                )
+
+                            [NCF] => 3
+                            [NSF] => 4
+                            [Total] => 3.4
+                        )
+
+                    [5] => Data Object
+                        (
+                            [Alternatif] => Alternatif Object
+                                (
+                                    [id] => 7
+                                    [key] => 4611416009
+                                    [value] => Tsurumaru Kuninaga
+                                )
+
+                            [Profile] => Array
+                                (
+                                    [0] => Profile Object
+                                        (
+                                            [key] => A31
+                                            [value] => Kriteria Range 1
+                                            [nilai_kriteria] => 6
+                                            [nilai_profile] => 4
+                                            [factor] => 1
+                                            [gap] => -2
+                                            [bobot] => 2
+                                        )
+
+                                    [1] => Profile Object
+                                        (
+                                            [key] => A32
+                                            [value] => Kriteria Range 2
+                                            [nilai_kriteria] => 4
+                                            [nilai_profile] => 6
+                                            [factor] => 1
+                                            [gap] => 2
+                                            [bobot] => 4
+                                        )
+
+                                    [2] => Profile Object
+                                        (
+                                            [key] => A33
+                                            [value] => Kriteria Range 3
+                                            [nilai_kriteria] => 5
+                                            [nilai_profile] => 5
+                                            [factor] => 2
+                                            [gap] => 0
+                                            [bobot] => 3
+                                        )
+
+                                )
+
+                            [NCF] => 5
+                            [NSF] => 5
+                            [Total] => 5
+                        )
+
+                    [6] => Data Object
+                        (
+                            [Alternatif] => Alternatif Object
+                                (
+                                    [id] => 8
+                                    [key] => 4611416014
+                                    [value] => Izuminokami Kanesada
+                                )
+
+                            [Profile] => Array
+                                (
+                                    [0] => Profile Object
+                                        (
+                                            [key] => A31
+                                            [value] => Kriteria Range 1
+                                            [nilai_kriteria] => 6
+                                            [nilai_profile] => 4
+                                            [factor] => 1
+                                            [gap] => -2
+                                            [bobot] => 2
+                                        )
+
+                                    [1] => Profile Object
+                                        (
+                                            [key] => A32
+                                            [value] => Kriteria Range 2
+                                            [nilai_kriteria] => 4
+                                            [nilai_profile] => 5
+                                            [factor] => 1
+                                            [gap] => 1
+                                            [bobot] => 3.5
+                                        )
+
+                                    [2] => Profile Object
+                                        (
+                                            [key] => A33
+                                            [value] => Kriteria Range 3
+                                            [nilai_kriteria] => 5
+                                            [nilai_profile] => 4
+                                            [factor] => 2
+                                            [gap] => -1
+                                            [bobot] => 2.5
+                                        )
+
+                                )
+
+                            [NCF] => 4.5
+                            [NSF] => 4
+                            [Total] => 4.3
+                        )
+
+                    [7] => Data Object
+                        (
+                            [Alternatif] => Alternatif Object
+                                (
+                                    [id] => 9
+                                    [key] => 4611416001
+                                    [value] => Yamanbagiri Kunihiro 
+                                )
+
+                            [Profile] => Array
+                                (
+                                    [0] => Profile Object
+                                        (
+                                            [key] => A31
+                                            [value] => Kriteria Range 1
+                                            [nilai_kriteria] => 6
+                                            [nilai_profile] => 7
+                                            [factor] => 1
+                                            [gap] => 1
+                                            [bobot] => 3.5
+                                        )
+
+                                    [1] => Profile Object
+                                        (
+                                            [key] => A32
+                                            [value] => Kriteria Range 2
+                                            [nilai_kriteria] => 4
+                                            [nilai_profile] => 6
+                                            [factor] => 1
+                                            [gap] => 2
+                                            [bobot] => 4
+                                        )
+
+                                    [2] => Profile Object
+                                        (
+                                            [key] => A33
+                                            [value] => Kriteria Range 3
+                                            [nilai_kriteria] => 5
+                                            [nilai_profile] => 7
+                                            [factor] => 2
+                                            [gap] => 2
+                                            [bobot] => 4
+                                        )
+
+                                )
+
+                            [NCF] => 6.5
+                            [NSF] => 7
+                            [Total] => 6.7
+                        )
+
+                    [8] => Data Object
+                        (
+                            [Alternatif] => Alternatif Object
+                                (
+                                    [id] => 15
+                                    [key] => 4611416027
+                                    [value] => Boorhaann S.Si., M.Kom.,
+                                )
+
+                            [Profile] => Array
+                                (
+                                    [0] => Profile Object
+                                        (
+                                            [key] => A31
+                                            [value] => Kriteria Range 1
+                                            [nilai_kriteria] => 6
+                                            [nilai_profile] => 7
+                                            [factor] => 1
+                                            [gap] => 1
+                                            [bobot] => 3.5
+                                        )
+
+                                    [1] => Profile Object
+                                        (
+                                            [key] => A32
+                                            [value] => Kriteria Range 2
+                                            [nilai_kriteria] => 4
+                                            [nilai_profile] => 5
+                                            [factor] => 1
+                                            [gap] => 1
+                                            [bobot] => 3.5
+                                        )
+
+                                    [2] => Profile Object
+                                        (
+                                            [key] => A33
+                                            [value] => Kriteria Range 3
+                                            [nilai_kriteria] => 5
+                                            [nilai_profile] => 6
+                                            [factor] => 2
+                                            [gap] => 1
+                                            [bobot] => 3.5
+                                        )
+
+                                )
+
+                            [NCF] => 6
+                            [NSF] => 6
+                            [Total] => 6
+                        )
+
+                    [9] => Data Object
+                        (
+                            [Alternatif] => Alternatif Object
+                                (
+                                    [id] => 19
+                                    [key] => 4611416013
+                                    [value] => Kogitsunemaru
+                                )
+
+                            [Profile] => Array
+                                (
+                                    [0] => Profile Object
+                                        (
+                                            [key] => A31
+                                            [value] => Kriteria Range 1
+                                            [nilai_kriteria] => 6
+                                            [nilai_profile] => 3
+                                            [factor] => 1
+                                            [gap] => -3
+                                            [bobot] => 1.5
+                                        )
+
+                                    [1] => Profile Object
+                                        (
+                                            [key] => A32
+                                            [value] => Kriteria Range 2
+                                            [nilai_kriteria] => 4
+                                            [nilai_profile] => 4
+                                            [factor] => 1
+                                            [gap] => 0
+                                            [bobot] => 3
+                                        )
+
+                                    [2] => Profile Object
+                                        (
+                                            [key] => A33
+                                            [value] => Kriteria Range 3
+                                            [nilai_kriteria] => 5
+                                            [nilai_profile] => 6
+                                            [factor] => 2
+                                            [gap] => 1
+                                            [bobot] => 3.5
+                                        )
+
+                                )
+
+                            [NCF] => 3.5
+                            [NSF] => 6
+                            [Total] => 4.5
+                        )
+
+                )
+
+        )
+
+)
+<!--<table class="table table-striped">
+	<tr><th>#</th><th>Kode Kriteria</th><th>Aspek</th><th>Nama Kriteria</th><th>Nilai</th><th>Factor</th><th>Aksi</th></tr>
+	</table>-->
