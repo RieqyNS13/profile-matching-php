@@ -13,7 +13,7 @@
     <label>Masukkan Nama Alternatif</label>
    <input type="text" class="form-control" name="namaAlternatif" placeholder='Rieqy Muwachid Erysya'>
   </div>
-  <input type="submit" class="btn btn-primary" value="Tambah">&nbsp;&nbsp;<a href='cetak1.php'><input type="button" class="btn btn-info" value="Cetak pdf"></a>
+ <input type="submit" class="btn btn-primary" value="Tambah">
   </form>
   </div>
   </div>

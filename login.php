@@ -22,9 +22,13 @@ if(isset($_POST["username"]) && isset($_POST["password"])){
 ?>
 <html>
   <head>
-<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
-<script src="bootstrap/js/bootstrap.min.js"></script>
-<script src="js/jquery-3.3.1.min.js"></script>
+  <script src="js/jquery-3.3.1.min.js"></script>
+
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 <!------ Include the above in your HEAD tag ---------->
 <!------ Include the above in your HEAD tag ---------->
 <style type="text/css">
