@@ -102,6 +102,17 @@ require_once "otorisasi.php";
 			});
 			//
 		});
+		$("#tabKriteria a.hapus").click(function(){
+			var id=$(this).attr('data-id');
+			$.getJSON('proses.php?getIdKriteria='+id,function(data){
+				$("#modalHapus input[name='idHapus']").val(data.id_kriteria);
+				$("#modalHapus input[name='aksi']").val("hapusKriteria");
+				$("#modalHapus").modal('show');
+			}).fail(function(){
+				alert('Gagal');
+			});
+			//
+		});
 		$('#myTab a').on('click', function (e) {
 			e.preventDefault();
 			var tab=$(this).attr('href');

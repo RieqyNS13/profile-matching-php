@@ -255,7 +255,7 @@ if(isset($_POST["aksi"])){
 		if(!cekOtorisasi($_SESSION["id_user"],8))die(json_encode(array("error"=>"Ditolak. User tidak mempunyai hak akses")));
 		
 		$idHapus=mysqli_real_escape_string($koneksi, trim($_POST["idHapus"]));
-		if($idHapus=="")die(json_encode(array("error"=>"Gagal hapus alternatif")));
+		if($idHapus=="")die(json_encode(array("error"=>"Gagal hapus aspek")));
 		$query="delete from tbl_aspek where id='".$idHapus."'";
 		$hapus=mysqli_query($koneksi,$query) or die(json_encode(array("error"=>mysqli_error($koneksi))));
 		echo json_encode(array("sukses"=>"Hapus data sukses"));
@@ -265,7 +265,7 @@ if(isset($_POST["aksi"])){
 		if(!cekOtorisasi($_SESSION["id_user"],12))die(json_encode(array("error"=>"Ditolak. User tidak mempunyai hak akses")));
 		
 		$idHapus=mysqli_real_escape_string($koneksi, trim($_POST["idHapus"]));
-		if($idHapus=="")die(json_encode(array("error"=>"Gagal hapus alternatif")));
+		if($idHapus=="")die(json_encode(array("error"=>"Gagal hapus data kriteria")));
 		$query="delete from tbl_kriteria where id='".$idHapus."'";
 		$hapus=mysqli_query($koneksi,$query) or die(json_encode(array("error"=>mysqli_error($koneksi))));
 		echo json_encode(array("sukses"=>"Hapus data sukses"));
